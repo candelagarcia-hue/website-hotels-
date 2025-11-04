@@ -1,43 +1,30 @@
-h1{
-	color: #87551b;
-}
 
-body{
-	background-color: #fff;
-}
 
 p{
-	color: #f00;
-}
-
-.greenParagraph{
-	color: #0f0;
+	color: #1d60de;
+	font-size: 40px;
+	text-align: center;
 }
 
 table, td{
-	border-style: dashed;
+	border-style: solid;
 }
 
 td{
-	border-width: 2px;
-	border-color: #aa2a56;
+	border-width: 3px;
+	border-color: #fcba03;
 }
 table{
 	border-width: 4px;
-	border-color: #c4ab56;
+	border-color: #0e16ad;
 	margin-left: auto;
 	margin-right: auto;
 }
 body{
 
-	background-size: 500px;
+	background-size: 1000px;
 	background-repeat: repeat-y;
 	background-position: right top;
-}
-
-img{
-	border-radius: 25px;
-}
 
 img:hover{
 	opacity: 0.75;
@@ -45,18 +32,18 @@ img:hover{
 
 ul{
 	list-style-type: none;
-	background-color: ##b9b8c2;
+	background-color: #0e16ad;
 	overflow: hidden;
 }
 li a{
 	float: left;
 	display: block;
 	width: 50px;
-	background-color: #fcba03;
+	background-color: #e4e7ed;
 	text-align: center;
 	padding: 15px 15px;
 	text-decoration: none;
-	color: #f5af22;
+	color: #fcba03;
 
 }
 li a:hover{
@@ -64,4 +51,23 @@ li a:hover{
 }
 .active{
 	border-bottom: 2px solid; #c2a1fc;
+}
+
+h2{
+	color: #1d60de;
+}
+
+h1{
+	color: #1d60de;
+}
+
+h3{
+	color: #000;
+	font-size: 30px;
+
+}
+
+h4{
+	color: #000;
+	text-align: center;
 }
