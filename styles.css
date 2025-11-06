@@ -2,7 +2,7 @@
 
 p{
 	color: #1d60de;
-	font-size: 40px;
+	font-size: 35px;
 	text-align: center;
 }
 
@@ -27,7 +27,7 @@ body{
 	background-position: right top;
 
 img:hover{
-	opacity: 0.75;
+	opacity: 0.60;
 }
 
 ul{
@@ -70,4 +70,8 @@ h3{
 h4{
 	color: #000;
 	text-align: center;
+}
+
+a{
+	color: #0e16ad;
 }
