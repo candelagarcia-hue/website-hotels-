@@ -20,12 +20,24 @@ table{
 	margin-left: auto;
 	margin-right: auto;
 }
-body{
 
+body{
+	background-image: url(hotel personas.jpg);
 	background-size: 1000px;
 	background-repeat: repeat-y;
 	background-position: right top;
+	overflow: hidden; 
+}
 
+.container{
+	width: 300px;
+	text-align: center;
+	overflow: hidden;
+}
+
+.slides{
+
+}
 img:hover{
 	opacity: 0.60;
 }
